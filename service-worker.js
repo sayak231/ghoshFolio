@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ghoshFolio/precache-manifest.b59f745d59a2bff7401f10faaa73a80c.js"
+  "/ghoshFolio/precache-manifest.01ac5acdbe47f7a5fdc3cbbe79f57c78.js"
 );
 
 self.addEventListener('message', (event) => {
