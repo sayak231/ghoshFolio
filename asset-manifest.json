@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ghoshFolio/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/ghoshFolio/static/js/main.9884f12e.chunk.js",
+    "main.js.map": "/ghoshFolio/static/js/main.9884f12e.chunk.js.map",
+    "runtime-main.js": "/ghoshFolio/static/js/runtime-main.e83942ec.js",
+    "runtime-main.js.map": "/ghoshFolio/static/js/runtime-main.e83942ec.js.map",
+    "static/js/2.0fcc8e18.chunk.js": "/ghoshFolio/static/js/2.0fcc8e18.chunk.js",
+    "static/js/2.0fcc8e18.chunk.js.map": "/ghoshFolio/static/js/2.0fcc8e18.chunk.js.map",
+    "index.html": "/ghoshFolio/index.html",
+    "precache-manifest.b59f745d59a2bff7401f10faaa73a80c.js": "/ghoshFolio/precache-manifest.b59f745d59a2bff7401f10faaa73a80c.js",
+    "service-worker.js": "/ghoshFolio/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/ghoshFolio/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.0fcc8e18.chunk.js.LICENSE.txt": "/ghoshFolio/static/js/2.0fcc8e18.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ghoshFolio/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e83942ec.js",
+    "static/js/2.0fcc8e18.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.9884f12e.chunk.js"
+  ]
+}
